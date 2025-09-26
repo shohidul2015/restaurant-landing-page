@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+live link:
+https://restaurant-landing-page-shohidul.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
